@@ -1,2 +1,2 @@
-Print 1*1
-Print 1*1+1
+marks = (95, 98,97, 97, 97, 99)
+print(marks.count(97))
